@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d0d0b6860506a5fe1894473a4e9ab3c4d710bf9295c9a0a6371ef7896be182ae"
+            "sha256": "848b4d714977bbc9de6cb0f2ec1ec755302f630a227ac32c983abe786bda2907"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -96,6 +96,13 @@
             ],
             "version": "==0.11.1"
         },
+        "jinja2": {
+            "hashes": [
+                "sha256:74c935a1b8bb9a3947c50a54766a969d4846290e1e788ea44c1392163723c3bd",
+                "sha256:f84be1bb0040caca4cea721fcbbbbd61f9be9464ca236387158b0feea01914a4"
+            ],
+            "version": "==2.10"
+        },
         "jupyter-client": {
             "hashes": [
                 "sha256:e144e7ba1670424b1670a6325b00dae7f7b043f99486d2f77bdbc14cc90f2c2f",
@@ -123,6 +130,12 @@
                 "sha256:a856869c7ff079ad84a3e19cd87a64998350c2b94e9e08e44270faef33400f81"
             ],
             "version": "==2.6.11"
+        },
+        "markupsafe": {
+            "hashes": [
+                "sha256:a6be69091dac236ea9c6bc7d012beab42010fa914c459791d627dad4910eb665"
+            ],
+            "version": "==1.0"
         },
         "matplotlib": {
             "hashes": [
@@ -194,6 +207,13 @@
                 "sha256:44a94091dd71f05922eec661638ec1a35f26d573c119aa2fad964f10a2880e6c"
             ],
             "version": "==0.22.0"
+        },
+        "pandas-profiling": {
+            "hashes": [
+                "sha256:a1b16842b944dd9104b4b0df3a453d44d9722bf186d4da67c0c6521854d8aaf5",
+                "sha256:5014d8f160e44b6f56321d45fcf9670f8ad647587b545ab43d203c600217f307"
+            ],
+            "version": "==1.4.1"
         },
         "parso": {
             "hashes": [

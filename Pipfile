@@ -17,6 +17,7 @@ sklearn = "*"
 xgboost = "*"
 keras = "*"
 tensorflow = "*"
+pandas-profiling = "*"
 
 
 [dev-packages]
