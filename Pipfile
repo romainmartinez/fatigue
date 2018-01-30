@@ -15,10 +15,9 @@ pandas = "*"
 matplotlib = "*"
 sklearn = "*"
 xgboost = "*"
-keras = "*"
+Keras = "*"
 tensorflow = "*"
 pandas-profiling = "*"
-yellowbrick = "*"
 
 
 [dev-packages]
