@@ -18,6 +18,7 @@ xgboost = "*"
 keras = "*"
 tensorflow = "*"
 pandas-profiling = "*"
+yellowbrick = "*"
 
 
 [dev-packages]

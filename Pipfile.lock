@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "848b4d714977bbc9de6cb0f2ec1ec755302f630a227ac32c983abe786bda2907"
+            "sha256": "d200c2248c3e52a8d9852e04d6a4bffe1abcdd713757dcd6a21b5461d75674b8"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -9,9 +9,9 @@
             "os_name": "posix",
             "platform_machine": "x86_64",
             "platform_python_implementation": "CPython",
-            "platform_release": "4.13.0-31-generic",
+            "platform_release": "4.13.0-32-generic",
             "platform_system": "Linux",
-            "platform_version": "#34~16.04.1-Ubuntu SMP Fri Jan 19 17:11:01 UTC 2018",
+            "platform_version": "#35~16.04.1-Ubuntu SMP Thu Jan 25 10:13:43 UTC 2018",
             "python_full_version": "3.6.4",
             "python_version": "3.6",
             "sys_platform": "linux"
@@ -504,6 +504,13 @@
                 "sha256:4224193159763ab50352b3c53087510a9ebef4c9dcbafb5c5f8c7e2a1d6d7b70"
             ],
             "version": "==0.7.post3"
+        },
+        "yellowbrick": {
+            "hashes": [
+                "sha256:898f5e2b397b5a2d9424ce952f315c4eb44e789b9fde37ee0c5328c37d015104",
+                "sha256:553187969ebc349f1a9733cd0d86d9f54d974141951411ac774510ba8b72b24a"
+            ],
+            "version": "==0.5"
         }
     },
     "develop": {}
