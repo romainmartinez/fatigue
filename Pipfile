@@ -15,10 +15,10 @@ pandas = "*"
 matplotlib = "*"
 sklearn = "*"
 xgboost = "*"
-keras = "*"
+Keras = "*"
 tensorflow = "*"
 pandas-profiling = "*"
-tpot = "*"
+TPOT = "*"
 
 
 [dev-packages]
