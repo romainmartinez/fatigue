@@ -18,7 +18,6 @@ xgboost = "*"
 Keras = "*"
 tensorflow = "*"
 pandas-profiling = "*"
-TPOT = "*"
 
 
 [dev-packages]
