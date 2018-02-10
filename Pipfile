@@ -9,7 +9,6 @@ name = "pypi"
 
 ipykernel = "*"
 numpy = "*"
-seaborn = "*"
 scipy = "*"
 pandas = "*"
 matplotlib = "*"
