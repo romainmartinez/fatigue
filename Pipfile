@@ -17,6 +17,7 @@ xgboost = "*"
 pandas-profiling = "*"
 yapf = "*"
 plotly = "*"
+lightgbm = "*"
 
 
 [dev-packages]
